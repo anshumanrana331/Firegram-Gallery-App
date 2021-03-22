@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Firegram-Gallery-App/static/css/main.143a44ac.chunk.css",
+    "main.js": "/Firegram-Gallery-App/static/js/main.e1a0a490.chunk.js",
+    "main.js.map": "/Firegram-Gallery-App/static/js/main.e1a0a490.chunk.js.map",
+    "runtime-main.js": "/Firegram-Gallery-App/static/js/runtime-main.1d6a95ca.js",
+    "runtime-main.js.map": "/Firegram-Gallery-App/static/js/runtime-main.1d6a95ca.js.map",
+    "static/js/2.a2c99230.chunk.js": "/Firegram-Gallery-App/static/js/2.a2c99230.chunk.js",
+    "static/js/2.a2c99230.chunk.js.map": "/Firegram-Gallery-App/static/js/2.a2c99230.chunk.js.map",
+    "index.html": "/Firegram-Gallery-App/index.html",
+    "precache-manifest.2115b2f7378d9b60de542e41cc28f764.js": "/Firegram-Gallery-App/precache-manifest.2115b2f7378d9b60de542e41cc28f764.js",
+    "service-worker.js": "/Firegram-Gallery-App/service-worker.js",
+    "static/css/main.143a44ac.chunk.css.map": "/Firegram-Gallery-App/static/css/main.143a44ac.chunk.css.map",
+    "static/js/2.a2c99230.chunk.js.LICENSE.txt": "/Firegram-Gallery-App/static/js/2.a2c99230.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d6a95ca.js",
+    "static/js/2.a2c99230.chunk.js",
+    "static/css/main.143a44ac.chunk.css",
+    "static/js/main.e1a0a490.chunk.js"
+  ]
+}
